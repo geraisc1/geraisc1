@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gerardo Dev</h1>
+<h1 align="center">Hi 👋, I'm Gerardo Briseño</h1>
 <h3 align="center">Un apasionado desarrollador web</h3>
 
 - 🌱 I’m currently learning **Frameworks, Control de versiones, API´S**
